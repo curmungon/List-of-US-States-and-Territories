@@ -1,2 +1,2 @@
 # List-of-US-States-and-Territories
-List of US States and Territories (populated) with their postal abbreviation
+A list of US States and Territories (populated territories only) with their postal abbreviation.
